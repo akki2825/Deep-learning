@@ -41,7 +41,7 @@ def predict(inputs):
 
 #training with alpha
 #have set the value based on trail-and-error
-alpha = 25
+alpha = 0.1
 
 for i in xrange(50000):
 
